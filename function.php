@@ -6,16 +6,16 @@
 
 // sayBye();
 
-function sayBye2($nama){
-    echo "byee, " . $nama;
-}
+// function sayBye2($nama){
+//     echo "byee, " . $nama;
+// }
 
-sayBye2("data 2");
+// sayBye2("data 2");
 
-function sayBye3($nama = "data"){
-    echo "byee, " . $nama;
-}
+// function sayBye3($nama = "data"){
+//     echo "byee, " . $nama;
+// }
 
-sayBye3("falaq");
+// sayBye3("falaq");
 
 ?>
